@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: rgb(186, 156, 215);
+}
+
+
+timer_tag{
+margin-left:200px;
+align-self: flex-start;
+float:left;
+}
+score_tag{
+    float:right;
+    padding-left: 100px;
+    text-align: right;
+}
+h1{
+    font-size: 22px;
+}
